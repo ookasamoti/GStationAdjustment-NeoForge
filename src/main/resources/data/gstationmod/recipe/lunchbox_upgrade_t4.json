@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "minecraft:netherite_upgrade_smithing_template" },
+  "base":     { "item": "gstationmod:lunch_box_tier3" },
+  "addition": { "item": "minecraft:nether_star" },
+  "result":   {
+    "count": 1,
+    "id": "gstationmod:lunch_box_tier4"
+  }
+}

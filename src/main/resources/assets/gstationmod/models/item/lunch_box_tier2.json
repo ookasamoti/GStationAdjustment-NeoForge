@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:builtin/entity",
+  "gui_light": "front",
+  "textures": { "layer0": "gstationmod:item/lunch_box_tier2" },
+  "particle": "gstationmod:item/particle_blank"
+}

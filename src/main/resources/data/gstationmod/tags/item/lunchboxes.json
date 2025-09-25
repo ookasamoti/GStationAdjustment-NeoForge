@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "gstationmod:lunch_box_tier1",
+    "gstationmod:lunch_box_tier2",
+    "gstationmod:lunch_box_tier3",
+    "gstationmod:lunch_box_tier4"
+  ]
+}

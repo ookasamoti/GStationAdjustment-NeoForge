@@ -1,0 +1,5 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "gstationmod:item/particle_blank" },
+  "particle": "gstationmod:item/particle_blank"
+}

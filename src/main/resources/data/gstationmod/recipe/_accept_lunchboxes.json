@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "minecraft:netherite_upgrade_smithing_template" },
+  "base":     { "tag":  "gstationmod:lunchboxes" },
+  "addition": { "item": "minecraft:barrier" },
+  "result":   { "item": "gstationmod:lunch_box_tier1" }
+}

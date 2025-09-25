@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "C C",
+    "LLL"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "L": { "item": "minecraft:leather" }
+  },
+  "result": { "id": "gstationmod:lunch_box_tier1" }
+}
